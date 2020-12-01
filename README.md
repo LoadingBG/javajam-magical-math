@@ -8,4 +8,5 @@ git clone https://github.com/LoadingBG/javajam-magical-math.git
 cd javajam-magical-math
 javac CursedPrintf.java
 java CursedPrintf
-``` and enjoy :)
+```
+and enjoy :)
